@@ -1,10 +1,27 @@
-# riveanimation
+# Rive Animation in Flutter
 
-Implementing Rive Animation usinf Flutter_Flare and Nima Packages.
+Implementing Rive Animation in Flutter using flare_flutter and nima packages.
 
-## Getting Started
+## Lets Get Started
 
-This project is a starting point for a Flutter application.
+* README file will be improved later.
+
+* In this tutorial we are going add both flare and nima implicit animation in Flutter.
+
+1. Add Package as in pubspec.yaml
+2. Add assets folder with flare and nima directories
+3. Add assets path in pubspec.yaml and run Packages Get
+
+You will be Amazed to See this
+
+![screenshot 1](https://firebasestorage.googleapis.com/v0/b/web-content-storage.appspot.com/o/RiveAnimationScreenshot1.png?alt=media&token=a95c33a0-ecb7-4ca1-a859-ac0b3c79bdef)
+
+
+![screenshot 2](https://firebasestorage.googleapis.com/v0/b/web-content-storage.appspot.com/o/RiveAnimationScreenshot2.png?alt=media&token=6c7867d8-89f5-4d47-bea9-d74d19367b82)
+
+
+![screenshot 3](https://firebasestorage.googleapis.com/v0/b/web-content-storage.appspot.com/o/RiveAnimationScreenshot3.png?alt=media&token=da9610cc-8b14-43aa-bb99-a6fb2db8a264)
+
 
 A few resources to get you started if this is your first Flutter project:
 
